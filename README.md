@@ -8,12 +8,12 @@ Title of your repository shall be : team-(your team name)
 
 After forking, fill in your team details below in your fork's README
 
-- **Team Name:Mahreen&sumaiya
-- **Team Lead:Mahreen
-- **Team Members:1
-  - Member 1:sumaiya
-  - Member 2:
-  - Member 3:
+- **Team Name:Syntax-Syndicate
+- **Team Lead:Kommu Tanvi
+- **Team Members:3
+  - Member 1:Kommu Tanvi
+  - Member 2:K Pranav
+  - Member 3:R Lakshmi Prasanna
   - Member 4:
 
 ---
